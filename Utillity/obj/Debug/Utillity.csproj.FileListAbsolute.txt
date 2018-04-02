@@ -1,0 +1,13 @@
+E:\Narasimha_Data\GitHub\WebAPIMVCClientApplication\Utillity\bin\Debug\Utillity.dll
+E:\Narasimha_Data\GitHub\WebAPIMVCClientApplication\Utillity\bin\Debug\Utillity.pdb
+E:\Narasimha_Data\GitHub\WebAPIMVCClientApplication\Utillity\obj\Debug\Utillity.csproj.CoreCompileInputs.cache
+E:\Narasimha_Data\GitHub\WebAPIMVCClientApplication\Utillity\obj\Debug\Utillity.dll
+E:\Narasimha_Data\GitHub\WebAPIMVCClientApplication\Utillity\obj\Debug\Utillity.pdb
+E:\Narasimha_Data\GitHub\WebAPIMVCClientApplication\Utillity\obj\Debug\Utillity.csprojResolveAssemblyReference.cache
+E:\Narasimha_Data\GitHub\MvcCoreApplication\Utillity\bin\Debug\Utillity.dll
+E:\Narasimha_Data\GitHub\MvcCoreApplication\Utillity\bin\Debug\Utillity.pdb
+E:\Narasimha_Data\GitHub\MvcCoreApplication\Utillity\obj\Debug\Utillity.csproj.CoreCompileInputs.cache
+E:\Narasimha_Data\GitHub\MvcCoreApplication\Utillity\obj\Debug\Utillity.dll
+E:\Narasimha_Data\GitHub\MvcCoreApplication\Utillity\obj\Debug\Utillity.pdb
+E:\Narasimha_Data\GitHub\MvcCoreApplication\Utillity\bin\Debug\Utillity.dll.config
+E:\Narasimha_Data\GitHub\MvcCoreApplication\Utillity\obj\Debug\Utillity.csprojResolveAssemblyReference.cache

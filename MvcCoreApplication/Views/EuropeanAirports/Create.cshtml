@@ -1,0 +1,26 @@
+﻿@model MvcCoreApplication.Models.CascadingModel
+@{
+    ViewData["Title"] = "GetAirportsData";
+}
+
+<h2>List box airport names</h2>
+
+@using (Html.BeginForm("Create", "EuropeanAirports", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(m => m.AirportName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.ListBoxFor(m => m.AirportName, Model.AirportNames)
+                @Html.ValidationMessageFor(m => m.AirportName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
